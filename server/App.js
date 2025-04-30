@@ -9,7 +9,7 @@ import multer from "multer";
 import Property from "./models/productModel.js";
 
 import { getUser, addUser, editUser, deleteUser, idUser, addSavedProperty, removeSavedProperty, getSavedProperties } from "./routes/UserRouter.js";
-import userRouter from './routes/UserRouter.js';
+import userRouter from './routes/userRouter.js';
 import { getProperty, addProperty, editProperty, deleteProperty, idProperty, getUserProperties } from "./routes/adminRouter.js";
 import authRouter from './routes/authRouter.js';
 
