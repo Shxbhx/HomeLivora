@@ -1,0 +1,16 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Production
+/build
+/dist
+
+# Environment
+.env
+.env.local
+
+# Misc
+.DS_Store
+.vscode/
