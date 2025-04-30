@@ -1,6 +1,6 @@
-# RentGhar - Property Rental Application
+# Homelivora - Property Rental Application
 
-RentGhar is a comprehensive mobile application built with React Native and Expo, designed to help users find and list rental properties. The application features an intuitive interface, advanced filtering capabilities, and real-time property updates.
+HomeLivora is a comprehensive mobile application built with React Native and Expo, designed to help users find and list rental properties. The application features an intuitive interface, advanced filtering capabilities, and real-time property updates.
 
 ## Features
 
@@ -46,12 +46,12 @@ RentGhar is a comprehensive mobile application built with React Native and Expo,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Shxbhx/RentGhar.git
+git clone https://github.com/Shxbhx/Homelivora.git
 ```
 
 2. Install dependencies for the frontend:
 ```bash
-cd shubhamhome
+cd frontend
 npm install
 ```
 
@@ -79,6 +79,6 @@ npm start
 
 Frontend:
 ```bash
-cd shubhamhome
+cd frontend
 npx expo start
 ```
